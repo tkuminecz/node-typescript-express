@@ -70,7 +70,7 @@
     "body-parser": "^1.18.3",
     "compression": "^1.7.3",
     "cors": "^2.8.5",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "morgan": "^1.9.1",
     "reflect-metadata": "^0.1.13",
     "typescript-ioc": "^1.2.5",
